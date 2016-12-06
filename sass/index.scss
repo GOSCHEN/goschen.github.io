@@ -1,0 +1,21 @@
+@import "_normalize";
+@import "_skeleton";
+
+$goschen_blue: #34495E;
+$goschen_red: #E74C3C;
+$goschen_bright: #F9F7F6;
+
+.section {
+  padding: 8rem 0 7rem;
+  text-align: center;
+}
+
+.header{
+    background-color: $goschen_red;
+    color: $goschen_bright;
+}
+
+.body{
+  background-color: $goschen_blue;
+  color: $goschen_bright;
+}
