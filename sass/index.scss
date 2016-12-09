@@ -10,15 +10,10 @@ $goschen_bright: #F9F7F6;
   text-align: center;
 }
 
-.scanlines {
-  background-image:url("../img/scanlines.png");
-  background-repeat: repeat;
-  z-index: 10;
-}
-
 .header{
-    background-image: url("../img/back.jpg");
-    color: $goschen_bright;
+    background-image:  url("../img/scanlines.png"), url("../img/back.jpg");
+    background-repeat: repeat;
+    color: $goschen_blue;
 }
 
 .body{
