@@ -1,22 +1,22 @@
-@import "_normalize";
-@import "_skeleton";
+@import 'normalize';
+@import 'skeleton';
 
-$goschen_blue: #34495E;
-$goschen_red: #E74C3C;
-$goschen_bright: #F9F7F6;
+$goschen-blue: #34495e;
+$goschen-red: #e74c3c;
+$goschen-bright: #f9f7f6;
 
 .section {
   padding: 8rem 0 7rem;
   text-align: center;
 }
 
-.header{
-    background-image:  url("../img/scanlines.png"), url("../img/back.jpg");
-    background-repeat: repeat;
-    color: $goschen_blue;
+.header {
+  background-image: url('../img/scanlines.png'), url('../img/back.jpg');
+  background-repeat: repeat;
+  color: $goschen-blue;
 }
 
-.body{
-  background-color: $goschen_blue;
-  color: $goschen_bright;
+.body {
+  background-color: $goschen-blue;
+  color: $goschen-bright;
 }
