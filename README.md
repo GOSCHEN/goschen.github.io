@@ -2,7 +2,7 @@
 ## My personal website
 
 This is the first serious approach of hacking a website for myself.
-I often started a draft but never really finished or found usefull ideas.
+I often started a draft but never really finished or found useful ideas.
 
 ### What is planned to be displayed here?
 1. A short presentation of myself
